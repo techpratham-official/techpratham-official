@@ -20,12 +20,19 @@ TechPratham offers industry-focused IT training and corporate learning programs 
 11. **Software Development Training** – Python, Java, and Full Stack Development
 12. **Software Testing & QA Training** – Manual Testing, Automation Testing, and Software Quality Assurance
 
-## IT Training & Corporate Training
+## Corporate Training & Workforce Upskilling
 
-- **IT Training for Individuals:** Structured, instructor-led programs for students, fresh graduates, and working professionals.
-- **Corporate Training:** Customized technology training for organizations, corporate teams, and employees based on business goals and skill requirements.
-- **Practical Learning:** Hands-on exercises, real-world projects, and industry-relevant scenarios.
-- **Career Support:** Certification guidance, resume preparation, interview preparation, and placement assistance.
+**TechPratham partners with organizations to deliver customized corporate training solutions that help build a future-ready workforce.** Our corporate upskilling approach is designed to transform talent into impact by empowering teams, strengthening leadership capabilities, and supporting sustainable business growth.
+
+We use a high-impact, business-focused training approach to help organizations develop relevant technology skills, support workforce transformation, and gain meaningful returns on their training investment.
+
+- **Customized Corporate Learning:** Training solutions aligned with an organization's business goals, team requirements, and skill-development needs.
+- **Technology & IT Training:** Learning programs across enterprise platforms, software, cloud, data, and emerging technologies.
+- **Team & Leadership Development:** Upskilling initiatives that help teams strengthen capabilities and prepare for evolving workplace demands.
+- **Practical, Industry-Relevant Approach:** Training focused on applicable skills and workplace relevance.
+- **Individual IT Training:** Learning opportunities for students, fresh graduates, and working professionals seeking to build or advance technology careers.
+
+Explore our [Corporate Training Solutions](https://www.techpratham.com/corporate-training) or visit the [TechPratham website](https://www.techpratham.com/) to learn more.
 
 
 **TechPratham** is an IT Training and Development company focused on helping learners and working professionals build practical, industry-relevant technology skills.
