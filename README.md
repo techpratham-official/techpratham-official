@@ -3,7 +3,7 @@
 
 **IT Training | Corporate Training | Online Training | Professional Skill Development**
 
-TechPratham offers industry-focused IT training and corporate learning programs designed to help individuals, teams, and organizations build practical technology skills.
+TechPratham offers industry-focused IT training and corporate training programs designed to help individuals, teams, and organizations build practical technology skills.
 
 ## Courses & Training Programs
 
