@@ -1,6 +1,33 @@
 # TechPratham
 ### Learn Today. Lead Tomorrow.
 
+**IT Training | Corporate Training | Online Training | Professional Skill Development**
+
+TechPratham offers industry-focused IT training and corporate learning programs designed to help individuals, teams, and organizations build practical technology skills.
+
+## Courses & Training Programs
+
+1. **Workday Training** – Workday HCM, Functional, Technical, Techno-Functional, Integration, and Studio
+2. **ServiceNow Training** – ITSM, CSA, CAD, and other ServiceNow learning paths
+3. **SAP Training** – SAP FICO, MM, SD, HCM, SuccessFactors, S/4HANA, ABAP, PP, QM, SCM, Ariba, EWM, and BTP
+4. **Salesforce Training** – Salesforce Admin, Developer, Apex, LWC, QA Testing, Vlocity, Pardot, Data Cloud, and Agentforce
+5. **Guidewire Training** – Guidewire PolicyCenter, ClaimCenter, BillingCenter, QA, and Business Analyst
+6. **Duck Creek Training** – Duck Creek Policy, Billing, Claims, and related insurance technology
+7. **Microsoft Dynamics Training** – Dynamics 365 and related business applications
+8. **Microsoft Fabric Training** – Data analytics, Microsoft Fabric, and DP-600 preparation
+9. **Cloud & DevOps Training** – AWS, Microsoft Azure, DevOps, and cloud technologies
+10. **Data & AI Training** – Data Analytics, Data Science, Data Engineering, and Artificial Intelligence
+11. **Software Development Training** – Python, Java, and Full Stack Development
+12. **Software Testing & QA Training** – Manual Testing, Automation Testing, and Software Quality Assurance
+
+## IT Training & Corporate Training
+
+- **IT Training for Individuals:** Structured, instructor-led programs for students, fresh graduates, and working professionals.
+- **Corporate Training:** Customized technology training for organizations, corporate teams, and employees based on business goals and skill requirements.
+- **Practical Learning:** Hands-on exercises, real-world projects, and industry-relevant scenarios.
+- **Career Support:** Certification guidance, resume preparation, interview preparation, and placement assistance.
+
+
 **TechPratham** is an IT Training and Development company focused on helping learners and working professionals build practical, industry-relevant technology skills.
 
 We provide learning opportunities across enterprise platforms, software development, cloud technologies, data, and emerging technologies—with an emphasis on hands-on learning and career readiness.
